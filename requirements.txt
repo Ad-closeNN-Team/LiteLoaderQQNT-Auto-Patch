@@ -1,2 +1,3 @@
 pywin32==306
 requests
+tqdm==4.66.4
