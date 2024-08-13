@@ -71,8 +71,7 @@ jobs:
       run: move dist/x86/main.exe "dist/x86/LiteLoaderQQNT Auto Patch_x86.exe"
 
     - name: Upload artifact
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: LiteLoaderQQNT Auto Patch_x86.exe
         path: "dist/x86/LiteLoaderQQNT Auto Patch_x86.exe"
-        if-no-files-found: ignore
