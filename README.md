@@ -53,4 +53,4 @@ require(String.raw`C:/LiteLoaderQQNT`);
 如果你因为某种原因导致输入的 LiteLoaderQQNT 或 QQNT 的目录失效，你可以用**手动**或**对话**两种方式就回失败的操作：
 
 - 手动：来到 `[系统盘符]:\Users\\[用户名]\Appdata\Local\LiteLoaderQQNT Auto Patch` 里，打开文件，如果你是QQNT位置错误请打开`QQNT_file_path.ini`，如果是LiteLoaderQQNT位置错误请打开`LiteLoaderQQNT_file_path.ini`，并直接写入文件夹的位置（不带引号）
-- 自动：删除`QQNT_file_path.ini`和`LiteLoaderQQNT_file_path.ini`两个文件，并打开程序，会重新要求选择位置，这时重新选择位置即可。
+- 自动：删除`QQNT_file_path.ini``QQ.exe.lnk`（那个快捷方式）和`LiteLoaderQQNT_file_path.ini`这三个文件，并打开程序，会重新要求选择位置，这时重新选择位置即可。
