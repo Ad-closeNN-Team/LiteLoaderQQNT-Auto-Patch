@@ -1,5 +1,5 @@
-> [!CAUTION]
-> 2024/8/12 目前本程序还有些许bug，如果坚持要使用，请三思而后行！！！
+> [!IMPORTANT]
+> 2024/8/14 目前下载补丁的方式为直接通过请求 GitHub API 和下载 GitHub 直链的文件，请确保你当前的网络环境可以直连 GitHub ，如果无法保证，请在遇到下载错误时过几分钟再尝试
 
 # LiteLoaderQQNT Auto Patch
 ## 介绍
